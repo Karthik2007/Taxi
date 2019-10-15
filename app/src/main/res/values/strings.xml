@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taxi</string>
+
+    <!-- dialog strings -->
+    <string name="dialog_internet_title">No Internet Connection</string>
+    <string name="dialog_internet_desc">Could not connect to internet. Please check the connection and try again.</string>
+
+
+    <string name="title_activity_taxi_list">Hamburg Taxis</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- error messages -->
+    <string name="error_api">Could not get results. Please try again later.</string>
+    <string name="title_activity_taxi_map">Map</string>
+
+</resources>

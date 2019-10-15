@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="dialog_internet_title">Keine Internetverbindung</string>
+    <string name="dialog_internet_desc">Verbindung zum Internet konnte nicht hergestellt werden. Bitte überprüfen Sie die Verbindung und versuchen Sie es erneut.</string>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="error_api">Konnte keine Ergebnisse erhalten. Bitte versuchen Sie es später erneut.</string>
+</resources>
